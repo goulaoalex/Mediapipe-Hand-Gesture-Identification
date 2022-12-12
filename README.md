@@ -1,5 +1,5 @@
 # Hand Gesture Detection with Mediapipe
-Algorithm that uses mediapipe to detect hand gestures in real-time. Mediapipe is a framework that allows developers to create pipelines that process multimedia data, such as video frames and audio samples. It is commonly used for tasks such as pose estimation, hand tracking, and gesture recognition.
+Python algorithm that uses mediapipe and opencv to find the user's hand in real-time video and detect the gesture being displayed. It utilizes machine learning techniques to accurately identify the hand and its movement, allowing for gesture recognition and control of digital devices. The algorithm has been tested and refined to provide reliable and accurate results in a variety of scenarios.. Mediapipe is a framework that allows developers to create pipelines that process multimedia data, such as video frames and audio samples. It is commonly used for tasks such as pose estimation, hand tracking, and gesture recognition.
 
 ## Prerequisites
 * Python 3.6 or later;
